@@ -7,11 +7,7 @@
    if (req.url === '/about') {
         res.end('welcome to about page')  
    }
-   res.end(`
-       <h1>oopss!</h1>
-       
-       `
-   )
+  
  
  })
 
